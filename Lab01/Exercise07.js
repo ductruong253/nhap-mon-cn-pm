@@ -1,4 +1,4 @@
-// Bài tập 1.
+// Bài tập 7.
 // Tính S(n) = 1 + 2 + 3 + 4 + … + n
 // Trong đó n được nhập từ người dùng với 3 < n và n < 50
 
