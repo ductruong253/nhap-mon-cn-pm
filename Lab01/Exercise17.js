@@ -4,7 +4,7 @@ Tính S(n) = n!
 Trong đó n được nhập từ người dùng.
 */
 
-const n = 3;
+const n = 5;
 
 function sumT(n) {
     let result = 1;

@@ -1,0 +1,483 @@
+{
+  "uuid": "Mhtzh2ASIesgaWtbvT9ctPROZm3XHKej",
+  "events": [
+    {
+      "type": "v3",
+      "timestamp": 1647164058513,
+      "info": {
+        "operation": "click",
+        "page_type": "seller_center_login",
+        "target_type": "username",
+        "page_section": "login",
+        "data": {},
+        "usage_id": 0
+      },
+      "session_id": "ae3c0e94-e265-4786-bf4c-d2a85f47ec16",
+      "sequence_id": 3,
+      "civ_id": "a997c344-8797-4441-9cfc-1e4348269827"
+    },
+    {
+      "type": "v3",
+      "timestamp": 1647164065218,
+      "info": {
+        "operation": "click",
+        "page_type": "seller_center_login",
+        "target_type": "password",
+        "page_section": "login",
+        "data": {},
+        "usage_id": 0
+      },
+      "session_id": "ae3c0e94-e265-4786-bf4c-d2a85f47ec16",
+      "sequence_id": 4,
+      "civ_id": "a997c344-8797-4441-9cfc-1e4348269827"
+    },
+    {
+      "type": "v3",
+      "timestamp": 1647164065977,
+      "info": {
+        "operation": "click",
+        "page_type": "seller_center_login",
+        "target_type": "sign_in",
+        "page_section": "login",
+        "data": {},
+        "usage_id": 0
+      },
+      "session_id": "ae3c0e94-e265-4786-bf4c-d2a85f47ec16",
+      "sequence_id": 5,
+      "civ_id": "a997c344-8797-4441-9cfc-1e4348269827"
+    },
+    {
+      "civ_id": "02d7eee8-7125-4391-81a8-3a61ea60ebd7",
+      "info": {
+        "auto_view_id": "browser-abs|banhang.test-stable.shopee.vn/",
+        "data": {
+          "auto_pv_common": {
+            "auto_mapped_view": "",
+            "auto_refer": "https://banhang.test-stable.shopee.vn/account/signin?next: %2F",
+            "auto_pathname": "/",
+            "auto_url": "https://banhang.test-stable.shopee.vn/",
+            "start_time": 1647164067363
+          }
+        },
+        "operation": "auto_view",
+        "usage_id": 0
+      },
+      "sequence_id": 6,
+      "session_id": "ae3c0e94-e265-4786-bf4c-d2a85f47ec16",
+      "timestamp": 1647164067363,
+      "type": "v3"
+    },
+    {
+      "type": "v3",
+      "timestamp": 1647164067725,
+      "info": {
+        "operation": "view",
+        "page_type": "seller_center_root",
+        "data": {
+          "shopid": 43996,
+          "seller_type": 0,
+          "account_id": "",
+          "main_accountid": "",
+          "account_type": ""
+        },
+        "usage_id": 0
+      },
+      "session_id": "ae3c0e94-e265-4786-bf4c-d2a85f47ec16",
+      "sequence_id": 7,
+      "civ_id": "02d7eee8-7125-4391-81a8-3a61ea60ebd7",
+      "params": null
+    },
+    {
+      "type": "v3",
+      "timestamp": 1647164067733,
+      "info": {
+        "operation": "view",
+        "page_type": "seller_center_new_homepage",
+        "data": {
+          "shopid": 43996,
+          "seller_type": 0,
+          "account_id": "",
+          "main_accountid": "",
+          "account_type": ""
+        },
+        "usage_id": 0
+      },
+      "session_id": "ae3c0e94-e265-4786-bf4c-d2a85f47ec16",
+      "sequence_id": 8,
+      "civ_id": "02d7eee8-7125-4391-81a8-3a61ea60ebd7",
+      "params": null
+    },
+    {
+      "type": "v3",
+      "timestamp": 1647164068165,
+      "info": {
+        "operation": "impression",
+        "page_type": "seller_center_sidebar",
+        "target_type": "my_shipment",
+        "page_section": "left_navigation",
+        "data": {
+          "viewed_objects": [
+            {
+              "shopid": 43996,
+              "seller_type": 0,
+              "account_id": "",
+              "main_accountid": "",
+              "account_type": "",
+              "ctx_page_url": "/"
+            }
+          ]
+        },
+        "usage_id": 0
+      },
+      "session_id": "ae3c0e94-e265-4786-bf4c-d2a85f47ec16",
+      "sequence_id": 9,
+      "civ_id": "02d7eee8-7125-4391-81a8-3a61ea60ebd7"
+    },
+    {
+      "type": "v3",
+      "timestamp": 1647164068165,
+      "info": {
+        "operation": "impression",
+        "page_type": "seller_center_sidebar",
+        "target_type": "mass_ship",
+        "page_section": "left_navigation",
+        "data": {
+          "viewed_objects": [
+            {
+              "shopid": 43996,
+              "seller_type": 0,
+              "account_id": "",
+              "main_accountid": "",
+              "account_type": "",
+              "ctx_page_url": "/"
+            }
+          ]
+        },
+        "usage_id": 0
+      },
+      "session_id": "ae3c0e94-e265-4786-bf4c-d2a85f47ec16",
+      "sequence_id": 10,
+      "civ_id": "02d7eee8-7125-4391-81a8-3a61ea60ebd7"
+    },
+    {
+      "type": "v3",
+      "timestamp": 1647164068165,
+      "info": {
+        "operation": "impression",
+        "page_type": "seller_center_sidebar",
+        "target_type": "shipping_setting",
+        "page_section": "left_navigation",
+        "data": {
+          "viewed_objects": [
+            {
+              "shopid": 43996,
+              "seller_type": 0,
+              "account_id": "",
+              "main_accountid": "",
+              "account_type": "",
+              "ctx_page_url": "/"
+            }
+          ]
+        },
+        "usage_id": 0
+      },
+      "session_id": "ae3c0e94-e265-4786-bf4c-d2a85f47ec16",
+      "sequence_id": 11,
+      "civ_id": "02d7eee8-7125-4391-81a8-3a61ea60ebd7"
+    },
+    {
+      "type": "v3",
+      "timestamp": 1647164068165,
+      "info": {
+        "operation": "impression",
+        "page_type": "seller_center_sidebar",
+        "target_type": "buyer_broadcast",
+        "page_section": "left_navigation",
+        "data": {
+          "viewed_objects": [
+            {
+              "shopid": 43996,
+              "seller_type": 0,
+              "account_id": "",
+              "main_accountid": "",
+              "account_type": "",
+              "ctx_page_url": "/"
+            }
+          ]
+        },
+        "usage_id": 0
+      },
+      "session_id": "ae3c0e94-e265-4786-bf4c-d2a85f47ec16",
+      "sequence_id": 12,
+      "civ_id": "02d7eee8-7125-4391-81a8-3a61ea60ebd7"
+    },
+    {
+      "type": "v3",
+      "timestamp": 1647164068165,
+      "info": {
+        "operation": "impression",
+        "page_type": "seller_center_sidebar",
+        "target_type": "buyer_group",
+        "page_section": "left_navigation",
+        "data": {
+          "viewed_objects": [
+            {
+              "shopid": 43996,
+              "seller_type": 0,
+              "account_id": "",
+              "main_accountid": "",
+              "account_type": "",
+              "ctx_page_url": "/"
+            }
+          ]
+        },
+        "usage_id": 0
+      },
+      "session_id": "ae3c0e94-e265-4786-bf4c-d2a85f47ec16",
+      "sequence_id": 13,
+      "civ_id": "02d7eee8-7125-4391-81a8-3a61ea60ebd7"
+    },
+    {
+      "type": "v3",
+      "timestamp": 1647164068165,
+      "info": {
+        "operation": "impression",
+        "page_type": "seller_center_sidebar",
+        "target_type": "buyer_list",
+        "page_section": "left_navigation",
+        "data": {
+          "viewed_objects": [
+            {
+              "shopid": 43996,
+              "seller_type": 0,
+              "account_id": "",
+              "main_accountid": "",
+              "account_type": "",
+              "ctx_page_url": "/"
+            }
+          ]
+        },
+        "usage_id": 0
+      },
+      "session_id": "ae3c0e94-e265-4786-bf4c-d2a85f47ec16",
+      "sequence_id": 14,
+      "civ_id": "02d7eee8-7125-4391-81a8-3a61ea60ebd7"
+    },
+    {
+      "type": "v3",
+      "timestamp": 1647164068165,
+      "info": {
+        "operation": "impression",
+        "page_type": "seller_center_sidebar",
+        "target_type": "chat_assistant",
+        "page_section": "left_navigation",
+        "data": {
+          "viewed_objects": [
+            {
+              "shopid": 43996,
+              "seller_type": 0,
+              "account_id": "",
+              "main_accountid": "",
+              "account_type": "",
+              "ctx_page_url": "/"
+            }
+          ]
+        },
+        "usage_id": 0
+      },
+      "session_id": "ae3c0e94-e265-4786-bf4c-d2a85f47ec16",
+      "sequence_id": 15,
+      "civ_id": "02d7eee8-7125-4391-81a8-3a61ea60ebd7"
+    },
+    {
+      "type": "v3",
+      "timestamp": 1647164068166,
+      "info": {
+        "operation": "impression",
+        "page_type": "seller_center_sidebar",
+        "target_type": "proactive_update",
+        "page_section": "left_navigation",
+        "data": {
+          "viewed_objects": [
+            {
+              "shopid": 43996,
+              "seller_type": 0,
+              "account_id": "",
+              "main_accountid": "",
+              "account_type": "",
+              "ctx_page_url": "/"
+            }
+          ]
+        },
+        "usage_id": 0
+      },
+      "session_id": "ae3c0e94-e265-4786-bf4c-d2a85f47ec16",
+      "sequence_id": 16,
+      "civ_id": "02d7eee8-7125-4391-81a8-3a61ea60ebd7"
+    },
+    {
+      "type": "v3",
+      "timestamp": 1647164068166,
+      "info": {
+        "operation": "impression",
+        "page_type": "seller_center_sidebar",
+        "target_type": "shop_decoration",
+        "page_section": "left_navigation",
+        "data": {
+          "viewed_objects": [
+            {
+              "shopid": 43996,
+              "seller_type": 0,
+              "account_id": "",
+              "main_accountid": "",
+              "account_type": "",
+              "ctx_page_url": "/"
+            }
+          ]
+        },
+        "usage_id": 0
+      },
+      "session_id": "ae3c0e94-e265-4786-bf4c-d2a85f47ec16",
+      "sequence_id": 17,
+      "civ_id": "02d7eee8-7125-4391-81a8-3a61ea60ebd7"
+    },
+    {
+      "type": "v3",
+      "timestamp": 1647164068166,
+      "info": {
+        "operation": "impression",
+        "page_type": "seller_center_sidebar",
+        "target_type": "image_space",
+        "page_section": "left_navigation",
+        "data": {
+          "viewed_objects": [
+            {
+              "shopid": 43996,
+              "seller_type": 0,
+              "account_id": "",
+              "main_accountid": "",
+              "account_type": "",
+              "ctx_page_url": "/"
+            }
+          ]
+        },
+        "usage_id": 0
+      },
+      "session_id": "ae3c0e94-e265-4786-bf4c-d2a85f47ec16",
+      "sequence_id": 18,
+      "civ_id": "02d7eee8-7125-4391-81a8-3a61ea60ebd7"
+    },
+    {
+      "type": "v3",
+      "timestamp": 1647164068166,
+      "info": {
+        "operation": "impression",
+        "page_type": "seller_center_sidebar",
+        "target_type": "partner_platform",
+        "page_section": "left_navigation",
+        "data": {
+          "viewed_objects": [
+            {
+              "shopid": 43996,
+              "seller_type": 0,
+              "account_id": "",
+              "main_accountid": "",
+              "account_type": "",
+              "ctx_page_url": "/"
+            }
+          ]
+        },
+        "usage_id": 0
+      },
+      "session_id": "ae3c0e94-e265-4786-bf4c-d2a85f47ec16",
+      "sequence_id": 19,
+      "civ_id": "02d7eee8-7125-4391-81a8-3a61ea60ebd7"
+    },
+    {
+      "type": "v3",
+      "timestamp": 1647164068166,
+      "info": {
+        "operation": "impression",
+        "page_type": "seller_center_sidebar",
+        "target_type": "SBS Products",
+        "page_section": "left_navigation",
+        "data": {
+          "viewed_objects": [
+            {
+              "shopid": 43996,
+              "seller_type": 0,
+              "account_id": "",
+              "main_accountid": "",
+              "account_type": "",
+              "ctx_page_url": "/"
+            }
+          ]
+        },
+        "usage_id": 0
+      },
+      "session_id": "ae3c0e94-e265-4786-bf4c-d2a85f47ec16",
+      "sequence_id": 20,
+      "civ_id": "02d7eee8-7125-4391-81a8-3a61ea60ebd7"
+    },
+    {
+      "type": "v3",
+      "timestamp": 1647164068166,
+      "info": {
+        "operation": "impression",
+        "page_type": "seller_center_sidebar",
+        "target_type": "SBS Inbound",
+        "page_section": "left_navigation",
+        "data": {
+          "viewed_objects": [
+            {
+              "shopid": 43996,
+              "seller_type": 0,
+              "account_id": "",
+              "main_accountid": "",
+              "account_type": "",
+              "ctx_page_url": "/"
+            }
+          ]
+        },
+        "usage_id": 0
+      },
+      "session_id": "ae3c0e94-e265-4786-bf4c-d2a85f47ec16",
+      "sequence_id": 21,
+      "civ_id": "02d7eee8-7125-4391-81a8-3a61ea60ebd7"
+    },
+    {
+      "type": "v3",
+      "timestamp": 1647164069261,
+      "info": {
+        "operation": "impression",
+        "page_type": "seller_center_new_homepage",
+        "target_type": "more_button",
+        "page_section": "seller_missions",
+        "data": {
+          "viewed_objects": [
+            {
+              "shopid": 43996,
+              "seller_type": 0,
+              "account_id": "",
+              "main_accountid": "",
+              "account_type": ""
+            }
+          ]
+        },
+        "usage_id": 0
+      },
+      "session_id": "ae3c0e94-e265-4786-bf4c-d2a85f47ec16",
+      "sequence_id": 22,
+      "civ_id": "02d7eee8-7125-4391-81a8-3a61ea60ebd7"
+    }
+  ],
+  "meta": {
+    "platform": "pc",
+    "source": "pc",
+    "locale": "vn",
+    "cookies": { "SPC_U": 43999, "SPC_F": "Mhtzh2ASIesgaWtbvT9ctPROZm3XHKej" },
+    "userid": 43999,
+    "pageid": "2d11fcf3-fe43-46bf-abe5-c205b5814182",
+    "app_id": 1
+  }
+}
